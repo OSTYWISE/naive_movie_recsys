@@ -1,0 +1,47 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled code
+*.o
+*.exe
+*.class
+
+# Temporary files
+*~
+*.tmp
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.env
+
+# Build directories
+/build/
+/dist/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sensitive information
+secrets.txt
+config.yml
+credentials.json
+
+# Miscellaneous
+*.bak
+*.swp
