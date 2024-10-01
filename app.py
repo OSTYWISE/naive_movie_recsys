@@ -45,3 +45,4 @@ if st.button("Show recommendation"):
             st.markdown(
                 f"[{rec_movies_name[i]}]({poster_url})"
             )
+            st.image(rec_movies_name[i], use_column_width=True)
